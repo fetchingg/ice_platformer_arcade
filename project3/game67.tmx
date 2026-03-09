@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="70" tileheight="70" infinite="0" nextlayerid="12" nextobjectid="1">
+ <tileset firstgid="1" source="ice1.tsx"/>
+ <layer id="1" name="walls" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzjZmBg4KYyphagpXkRZOjnAmJxKJZAM88biH2p6D4vCs3CZ54kmjpJPHLEmEcMwGYuLf3rSWXziAFsQCxCRfMIAZh5LEgYZj8ht+AzD6RXkET92OxD9q8giW7BBkaKeUxQTCv3URMDANqHB0w=
+  </data>
+ </layer>
+ <layer id="9" name="ice" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFMMBDAI+CUTAKRsEoQAAA9I8AYQ==
+  </data>
+ </layer>
+ <layer id="5" name="ladder" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowA/sGdgaKCmeY4DbJ4Llc1zHTVv0JjHBsQsQCxCJfOIAdQ2bygBAEafCgU=
+  </data>
+ </layer>
+ <layer id="2" name="water" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRQC2gSiUMA8ZUwjBgSiUMAgBmAAnr
+  </data>
+ </layer>
+ <layer id="3" name="start" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AU4AMaQKwJxFpUMs8MiM2B2IJK5o2CUTBQAABNzQEh
+  </data>
+ </layer>
+ <layer id="7" name="spikes" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAd0CFCHBd7FIyCUTAKRsHgBgAArACx
+  </data>
+ </layer>
+ <layer id="8" name="exit" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhcQAOINYFYi0rmWQCxORCbUcm8UTAKRsEoGAUQAAA0igEh
+  </data>
+ </layer>
+ <layer id="10" name="decoration" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh+wAqLmBMDQwO93TEKBj+wHgA73QbAzsEOLAfaAaOALAAAMdEBtw==
+  </data>
+ </layer>
+ <layer id="11" name="collisions" width="20" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxLYmBgSKIyphagpXnYzKXEv9RwKyH3Ucs8dLPxyRFjHrFuoaZ5uOyglXnUUE+r9Eyt9EhJXsamfiDilxS3D9b0FwLF9EovlGAAmVIumQ==
+  </data>
+ </layer>
+</map>

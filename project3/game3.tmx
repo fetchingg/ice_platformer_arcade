@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="70" tileheight="70" infinite="0" nextlayerid="12" nextobjectid="1">
+ <tileset firstgid="1" source="ice1.tsx"/>
+ <layer id="1" name="walls" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzjZmBg4KYyphYYLOaxATELFItgMY8FTT4CTT8zFJPrPi8S3YvPPD8gjgRiSSqZBwLeQBwFxL5UMo+a/h01jzbm4coTxJgXTpbrsJuH7A58biHWPEoArcxjoRKmdjkPwgDoyQiE
+  </data>
+ </layer>
+ <layer id="2" name="start" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRQAhoALEmEGtRyTwzIDYHYgsqmTcQAAAErwEh
+  </data>
+ </layer>
+ <layer id="3" name="exit" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBj8QAOINYFYi0rmmQGxORBbUMm8UTAKRsEoGIkAAB36ASE=
+  </data>
+ </layer>
+ <layer id="4" name="ice" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDHbAg4ZHwSgYDAAAgaAAMQ==
+  </data>
+ </layer>
+ <layer id="5" name="decoration" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKANcKORuaQAy4F2wCgY0QCU/qwH2hGDDJAaHu4U2ueExA4C4gAgDqbQTBhIAOI4IE7EIieFxX5kIINDTzjD4Cg7iQUAo7gE+w==
+  </data>
+ </layer>
+ <layer id="6" name="spikes" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQxHYDLQDRsGQA3pQPApGAbUAAOunAJk=
+  </data>
+ </layer>
+ <layer id="7" name="ladder" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowA/cKGyea6j5o2CUTAsAAC0fAFZ
+  </data>
+ </layer>
+ <layer id="9" name="collisions" width="20" height="20" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJwzZmBgMKYyphYYLObh8h+xYUCsvbjUkRsG+NxCSTjgEifVTHr4d7iYhy19DaT7iMnz9E7PpKZBWpYv1DCX2uUyLTAAEO0agA==
+  </data>
+ </layer>
+</map>
